@@ -3,7 +3,7 @@
     "name": "Nexus",
     "slug": "nexus",
     "version": "1.0.0",
-    "sdkVersion": "49.0.0"
+    "sdkVersion": "49.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
     "assetBundlePatterns": ["**/*"],
